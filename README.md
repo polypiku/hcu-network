@@ -4,7 +4,7 @@ A web app for mapping and monitoring Wi-Fi routers across campus buildings. Admi
 
 ระบบติดตามจุด Router / Wi-Fi ภายในมหาวิทยาลัย แยกตามอาคารและชั้น พร้อมแจ้งจุดที่เสียหรือมีปัญหา
 
-**Live demo:** https://polypiku09-crypto.github.io/hcu-network/
+**Live demo:** https://polypiku.github.io/hcu-network/
 
 ![HCU Network Monitor](screenshots/dashboard.png)
 
@@ -31,7 +31,7 @@ A web app for mapping and monitoring Wi-Fi routers across campus buildings. Admi
 ## Run Locally
 
 ```bash
-git clone https://github.com/polypiku09-crypto/hcu-network.git
+git clone https://github.com/polypiku/hcu-network.git
 cd hcu-network
 npx serve .
 ```
