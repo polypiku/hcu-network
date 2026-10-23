@@ -17,7 +17,14 @@ A web app for mapping and monitoring Wi-Fi routers across campus buildings. Admi
 - Customize point color and size, and filter the map view
 - Dashboard summarizing all points, with "last updated" times
 - Real-time sync between devices through Cloud Firestore
+- Export and import data, and print the floor map
 - Built-in "how to use" guide
+
+## Screenshots
+
+| Router details | Reporting a problem |
+|----------------|---------------------|
+| <img src="screenshots/router.png" width="360" /> | <img src="screenshots/report.png" width="460" /> |
 
 ## Tech Stack
 
